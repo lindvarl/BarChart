@@ -1,0 +1,7 @@
+{
+  "directory": "app/bower_components",
+  "registry": "http://bower.herokuapp.com",
+  "proxy": "http://llag:LagranL890@www-proxy.statoil.no:80",
+  "https-proxy": "http://llag:LagranL890@www-proxy.statoil.no:80",
+  "strict-ssl": false
+}
